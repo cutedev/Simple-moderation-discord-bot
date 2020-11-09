@@ -19,7 +19,7 @@ exports.run = async(client, msg, args) => {
     var reason = args.splice(1).join(' ');
     if(!reason) return msg.reply('You need to give a reason!');
 
-    var channel = msg.guild.channels.cache.find(c => c.name === 'log');
+    var channel = msg.guild.channels.cache.find(c => c.name === 'log'); //you can modify it to channel name you want to
 
     var log = new Discord.MessageEmbed()
     .setTitle('User Warned')
