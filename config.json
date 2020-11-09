@@ -1,4 +1,4 @@
 {
-    "prefix" : "/" , // you can change it to anything
+    "prefix" : "/" , //you can change it to anything
     "token" : "your-bot-token-here" 
 }
