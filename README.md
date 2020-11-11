@@ -1,7 +1,7 @@
 # Simple-moderation-discord-bot
 Simple moderation discord bot, code with js
 
--installing `npm i`
+-installing `npm init`then `npm install discord.js`
 
 -start the bot `node index.js`
 
