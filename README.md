@@ -5,7 +5,7 @@ Simple moderation discord bot, code with js
 
 -start the bot `node index.js`
 
--dont forget to fill token and prefix in config.json
+-dont forget to fill token in index.js and prefix in config.json
 
 
 _______________________________________________________
