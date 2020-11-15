@@ -21,9 +21,9 @@ exports.run = async(client, msg, args) => {
     var reason = args.splice(1).join(' ');
     if(!reason) return msg.reply('You need to give a reason!');
 
-    var channel = msg.guild.channels.cache.find(c => c.name === 'log'); // you can modify it to what channel you want
+    
 
-    var log = new Discord.MessageEmbed()
+     var log = new Discord.MessageEmbed()
     .setTitle('User Banned')
     .addField('User:', user, true)
     .addField('By:', msg.author, true)
