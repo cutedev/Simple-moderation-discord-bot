@@ -11,6 +11,6 @@
 
 _______________________________________________________
 
--need help ? contact me on discord Cheezie#0001
+-need help ? contact me on discord Cheezie#0001 (496977343194333184)
 
 -**im working on other bot rn i will not update this code however you can still dm me on discord for help**
